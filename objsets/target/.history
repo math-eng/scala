@@ -1,0 +1,21 @@
+styleCheck
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+test
+styleCheck
+run
+test
+submit --help
+compile
+run
+test
+compile
+submit anwei.chai@gmail.com D5hvA4ZWeH
+exit

@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- string take[0m[0m
+[0m[[0minfo[0m] [0m[32m- adding ints[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- union with empty set[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersect singletons[0m[0m
+[0m[[0minfo[0m] [0m[32m- diff two sets[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter out numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- Queries[0m[0m

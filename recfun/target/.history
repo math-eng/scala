@@ -1,0 +1,21 @@
+run
+console
+run
+console
+test PascalSuite
+test
+styleCheck
+test
+console
+test
+run
+test
+styleCheck
+test
+exit
+run
+test
+styleCheck
+submit anwei.chai@gmail.com D5hvA4ZWeH
+version
+exit
